@@ -1,1 +1,1 @@
-# Machine learning approach to find basis transformation that increases sparsity 
+# Machine learning approach to construct sparsity-inducing basis transformation
