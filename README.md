@@ -1,1 +1,2 @@
 # Machine learning approach to construct sparsity-inducing basis transformation
+During a course at Utrecht University, I collaborated with a team at ARCNL in Amsterdam. My primary responsibility was developing a machine learning network capable of learning a sparsity-inducing basis transform from images. This innovative approach aims to optimize the efficiency and performance of GPSR algorithms utilized in compressive sensing applications.
